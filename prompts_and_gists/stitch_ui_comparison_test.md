@@ -1,11 +1,11 @@
-# Stitch — Zero-UI Routing Engine (UI Comparison Test)
+# Stitch — Text-to-Workflow Engine (UI Comparison Test)
 
 React/Tailwind generation prompt for Stitch.
 
 ---
 
 ```
-Generate a React + Tailwind component for a Zero-UI Routing Engine interface.
+Generate a React + Tailwind component for a Text-to-Workflow Engine interface.
 
 AESTHETIC:
 Strict B2B enterprise. The palette is slate, white, and subtle shadows only. No color accents. No gradients. No rounded corners beyond 4px. No drop shadows heavier than shadow-sm. This is a tool used by operations leads, not consumers.
@@ -30,7 +30,7 @@ LAYOUT:
    Below the grid: a single "Confidence" line in text-sm text-slate-500 with a percentage value.
 
 3. PAGE CHROME:
-   Minimal. A single top bar with the product name "Zero-UI Routing Engine" in text-sm font-medium text-slate-700, left-aligned. No navigation. No sidebar. No footer.
+   Minimal. A single top bar with the product name "Text-to-Workflow Engine" in text-sm font-medium text-slate-700, left-aligned. No navigation. No sidebar. No footer.
 
 BEHAVIOR:
 Wire the submit action to a mock function. The output card should render with hardcoded example data on first load so the layout is visible without interaction.
