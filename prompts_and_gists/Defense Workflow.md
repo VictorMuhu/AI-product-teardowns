@@ -1,7 +1,7 @@
 CLAUDE COWORK DIRECTIVE: HOSTILE DEFENSE & OMNI-CHANNEL EXECUTION
 ================================================================
 INSTRUCTIONS FOR CLAUDE COWORK:
-Take control of this machine and execute the following sequential tasks.
+Work independently and execute the following sequential tasks.
 Do not ask for intermediate permissions; execute end-to-end.
 
 
