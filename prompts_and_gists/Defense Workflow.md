@@ -65,7 +65,7 @@ interfering with each other.
 ------------------------
 In REPLIT_TAB:
 
-1. Navigate to https://replit.com/t/pm-vibe-labs
+1. Navigate to [enter your replit project URL here]
 
 2. Wait for the dashboard to load and confirm the prompt input
    ("What do you want to make?") is visible — take a screenshot.
